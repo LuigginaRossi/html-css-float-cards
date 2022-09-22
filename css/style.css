@@ -23,7 +23,7 @@ main{
     padding: 2rem 3rem;
 }
 
-.second_row,.first_row{
+div[class*="_row"] {
     width: 920px;
     margin: auto;
 }

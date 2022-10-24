@@ -76,9 +76,6 @@ img{
     font-size: large;
 }
 
-[type="email"]{
-    background-color: transparent;
+.text_card a{
     color: #3da9d8;
-    font-family: 'Baloo Bhaijaan 2', cursive;
-    border: none;
-}
+    font-size: small;

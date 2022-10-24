@@ -13,8 +13,10 @@ body{
 header{
     text-align: center;
     padding: 2rem;
+    /* inserire div =>zmargin:auto */
 }
 
+/* header .h1 */
 h1{
     color: rgb(229, 46, 108);
 }
